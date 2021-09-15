@@ -1,4 +1,5 @@
-//n'ao possue no JS e sim apenas com TS
+//Type tupla
+//não possue no JS e sim apenas com TS
 
 //receba apenas 2 parametros
 // O tipo '[string, number]'.A origem tem 2 elementos, o destino permite somente 2.

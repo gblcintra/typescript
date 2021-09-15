@@ -1,3 +1,4 @@
+//Type number
 //atribuir valor com tipagem
 //Podendo ser number = (int, floar, hex, binary)
 let valor2: number = 10;

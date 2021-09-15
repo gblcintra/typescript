@@ -1,3 +1,4 @@
+//Type Union
 //Atribuir para ser number ou string
 
 let userId1: number | string;

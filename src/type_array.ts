@@ -1,4 +1,4 @@
-// type array
+//Type array
 
 //array que recebe somente numeros
 
