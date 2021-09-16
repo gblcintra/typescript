@@ -6,8 +6,8 @@ let tecnologia = [
     'PHP',
     'React JS',
     2021
-]
+];
 
 tecnologia.push('React Native');
 
-console.log(tecnologia);
+console.log("🚀 ~ file: type_inference.ts ~ line 13 ~ tecnologia", tecnologia);

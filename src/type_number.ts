@@ -5,6 +5,6 @@ let valor2: number = 10;
 
 let valor1: number;
 
-valor1 = 20
+valor1 = 20;
 
-console.log(valor1 + valor2);
+console.log("🚀 ~ file: type_number.ts ~ line 10 ~ valor1 + valor2", valor1 + valor2);
