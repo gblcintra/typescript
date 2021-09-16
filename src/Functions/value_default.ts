@@ -8,4 +8,11 @@ function cadastro(email: string, senha: string, nome = "Aluno", idade?:number): 
 }
 
 cadastro('teste@teste.com','123123')
-cadastro('gabriel@teste.com','123123','Gabriel', 26)
+cadastro('gabriel@teste.com','123123','Gabriel', 26);
+
+function cadastroLoja(nome:string,email:string, status= false):boolean{
+    console.log(`Status atual da loja ${nome} : ${status}`);
+    return status;
+}
+
+cadastroLoja('Bar do Programador','barprogramador@teste.com');
